@@ -2,6 +2,7 @@ import React from 'react';
 import Rating from '../Rating/Rating';
 import './BookmarkItem.css';
 
+
 export default function BookmarkItem(props) {
   return (
     <li className='BookmarkItem'>
